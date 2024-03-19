@@ -3,8 +3,8 @@
 .mainContainer{
     padding: 0px;
     margin: 0px;
-    max-width: 98.9vw;
-    min-height: calc(98.5vh - 45px);
+    max-width: 100vw;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
 }
