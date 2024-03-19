@@ -14,7 +14,8 @@ export default function Home() {
             </section>
            
             <div className={styles.session}>
-
+                <h1>Flor</h1>
+                <img src="./xique_xique/flor.jpeg"></img>
             </div>
         </main>
     )
