@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.teste2 > nav{
+    padding: 0px;
+}
+
+.teste{
+    background-color: #F4F6E8;
+    padding: 1%;
+}
+
+.teste3{
+    background-color: #F4F6E8;
+    color: #00730C;
+}
+
+.title{
+    color: #00730C;
+    font-weight: 500;
+}
+
+.link{
+    color: #00730C;
+    font-weight: 500;
+}
