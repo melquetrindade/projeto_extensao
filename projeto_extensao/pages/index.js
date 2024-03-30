@@ -1,7 +1,10 @@
 import React from "react"
 import styles from "../styles/infoPlants.module.css"
+import itens from "../repository/xique_xique"
 
 export default function Home() {
+    //console.log(itens.plants)
+
     return(
         <main className={styles.main}>
             <h1>Xique-Xique</h1>

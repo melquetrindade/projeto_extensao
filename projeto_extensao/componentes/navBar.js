@@ -29,7 +29,7 @@ export default function NavBar(){
                     <Offcanvas.Body className={styles.teste3}>
                         <Nav className="justify-content-end flex-grow-1 pe-3">
                             <Nav.Link href="#action1" className={styles.link}>Home</Nav.Link>
-                            <Nav.Link href="#action2" className={styles.link}>Plantas</Nav.Link>
+                            <Nav.Link href="/testeFor" className={styles.link}>Plantas</Nav.Link>
                         </Nav>
                     </Offcanvas.Body>
                     </Navbar.Offcanvas>
