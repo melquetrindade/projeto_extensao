@@ -4,7 +4,7 @@ import styles from "../styles/testeFor.module.css"
 
 export default function Search(){
 
-    const id = 25
+    const id = 1
     const [address, setAddress] = useState('load')
     const [braid, setBraid] = useState(false)
     const [dados, setDados] = useState(null)
@@ -36,7 +36,7 @@ export default function Search(){
         const carregarDados = async () => {
             if(address !== 'load' && address !== 'erro'){
                 //console.log(address) 
-                const dadosImportados = await import(`../repository/${address}.json`);
+                const dadosImportados = await import(`../repository/plants/${address}.json`);
                 setDados(dadosImportados.default);
             }
         };

@@ -1,0 +1,53 @@
+{
+    "id": 9,
+    "name": "Faveleira",
+    "images": [
+        {
+            "img": "./xique_xique/flor.jpeg",
+            "tipo": "Flor"
+        },
+        {
+            "img": "./xique_xique/flor2.jpeg",
+            "tipo": "Flor"
+        },
+        {
+            "img": "./xique_xique/flor3.jpeg",
+            "tipo": "Flor"
+        },
+        {
+            "img": "./xique_xique/fruto.jpeg",
+            "tipo": "Fruto"
+        }
+    ],
+    "sessions": [
+        {
+            "title": "Sobre",
+            "content": "O Xique-Xique é um cacto de porte médio a grande, com caules cilíndricos que podem atingir até 5 metros de altura. Possui espinhos grandes e afiados, o que o torna uma planta bastante espinhosa."
+        },
+        {
+            "title": "Habitat",
+            "content": "É encontrado principalmente em áreas áridas e semiáridas da Caatinga, adaptado a condições de pouca água e alta incidência solar. Suas raízes são capazes de penetrar profundamente no solo em busca de água."   
+        },
+        {
+            "title": "Floração e Frutificação",
+            "content": "Produz flores grandes e vistosas, geralmente de cor branca ou amarelada, que se abrem durante a noite para atrair polinizadores como morcegos e mariposas. Após a polinização, desenvolve frutos globosos de cor verde que contêm sementes."
+        },
+        {
+            "title": "Importância Ecológica",
+            "content": "O Xique-Xique desempenha um papel importante no ecossistema da Caatinga, fornecendo alimento e abrigo para uma variedade de animais, além de contribuir para a conservação do solo em áreas propensas à erosão."
+        },
+        {
+            "title": "Utilização Humana",
+            "content": "Além de sua relevância ecológica, o Xique-Xique também é utilizado pelas populações locais para diversos fins, como alimentação (os frutos podem ser consumidos), medicina popular e até mesmo na fabricação de artesanato, devido à sua madeira resistente e aos espinhos que podem ser utilizados como agulhas."   
+        },
+        {
+            "title": "Adaptações ao Clima",
+            "content": "Como outras plantas da Caatinga, o Xique-Xique possui adaptações especiais para sobreviver às condições áridas, como sua capacidade de armazenar água em seus caules e folhas reduzidas, o que ajuda a minimizar a perda de água por evaporação."
+        },
+        {
+            "title": "Resumindo...",
+            "content": "Essas são apenas algumas das características que tornam o Xique-Xique uma planta fascinante e importante na vegetação da Caatinga, ideal para ser incluída em um guia de plantas direcionado a leigos."
+        }
+    ]
+    
+}

@@ -1,0 +1,53 @@
+{
+    "id": 1,
+    "name": "Aroeira",
+    "images": [
+        {
+            "img": "./xique_xique/flor.jpeg",
+            "tipo": "Flor"
+        },
+        {
+            "img": "./xique_xique/flor2.jpeg",
+            "tipo": "Flor"
+        },
+        {
+            "img": "./xique_xique/flor3.jpeg",
+            "tipo": "Flor"
+        },
+        {
+            "img": "./xique_xique/fruto.jpeg",
+            "tipo": "Fruto"
+        }
+    ],
+    "sessions": [
+        {
+            "title": "Sobre",
+            "content": "A aroeira é uma planta pertencente ao gênero Schinus, da família Anacardiaceae. Existem várias espécies de aroeira, sendo a mais conhecida no Brasil a Schinus terebinthifolia, também chamada de aroeira-vermelha. É uma árvore de porte médio, com folhas compostas e pequenas flores brancas agrupadas em inflorescências."
+        },
+        {
+            "title": "Habitat",
+            "content": "A aroeira é nativa das regiões tropicais e subtropicais das Américas, sendo encontrada em várias partes do continente, incluindo Brasil, Argentina, Paraguai e Uruguai. É comumente encontrada em áreas de cerrado, caatinga, floresta estacional semidecidual e restingas."   
+        },
+        {
+            "title": "Floração e Frutificação",
+            "content": "A aroeira floresce durante os meses mais quentes do ano, geralmente na primavera e no verão, produzindo pequenas flores brancas que atraem polinizadores. Após a polinização, surgem pequenas drupas vermelhas, que são as frutas da aroeira, e são consumidas por várias espécies de aves e mamíferos."
+        },
+        {
+            "title": "Importância Ecológica",
+            "content": "A aroeira desempenha um papel importante no ecossistema como fornecedora de alimento para a fauna, especialmente aves e mamíferos que se alimentam de seus frutos. Além disso, suas raízes ajudam a estabilizar o solo, prevenindo a erosão, e sua presença contribui para a diversidade biológica em diferentes habitats."
+        },
+        {
+            "title": "Utilização Humana",
+            "content": "A aroeira tem várias utilidades para os seres humanos. Suas folhas e frutos são utilizados na medicina popular para o tratamento de diversas condições, como inflamações e problemas digestivos. Além disso, sua madeira é valorizada na marcenaria, sendo utilizada na fabricação de móveis e artesanatos."   
+        },
+        {
+            "title": "Adaptações ao Clima",
+            "content": "A aroeira é uma planta adaptada a uma variedade de condições climáticas, desde regiões mais secas até áreas úmidas. Suas folhas possuem adaptações, como a presença de cutículas espessas, que ajudam a reduzir a perda de água por transpiração, tornando-a resistente à seca."
+        },
+        {
+            "title": "Resumindo...",
+            "content": "A aroeira é uma árvore nativa das Américas, encontrada em vários habitats tropicais e subtropicais. Suas flores brancas e frutos vermelhos são características distintivas, atraindo polinizadores e animais dispersores de sementes. Além de sua importância ecológica, a aroeira tem valor para os seres humanos devido às suas propriedades medicinais e à sua madeira utilizada na marcenaria. Adaptada a uma variedade de climas, a aroeira é uma planta versátil e resiliente."
+        }
+    ]
+    
+}

@@ -1,0 +1,53 @@
+{
+    "id": 0,
+    "name": "Angico",
+    "images": [
+        {
+            "img": "./xique_xique/flor.jpeg",
+            "tipo": "Flor"
+        },
+        {
+            "img": "./xique_xique/flor2.jpeg",
+            "tipo": "Flor"
+        },
+        {
+            "img": "./xique_xique/flor3.jpeg",
+            "tipo": "Flor"
+        },
+        {
+            "img": "./xique_xique/fruto.jpeg",
+            "tipo": "Fruto"
+        }
+    ],
+    "sessions": [
+        {
+            "title": "Sobre",
+            "content": "O Angico é uma árvore pertencente ao gênero Anadenanthera, da família Fabaceae. Estas árvores são conhecidas por sua altura considerável, podendo atingir até 20 metros de altura, com uma copa ampla e densa."
+        },
+        {
+            "title": "Habitat",
+            "content": "O Angico é nativo de várias regiões da América Latina, sendo comumente encontrado em habitats que variam desde florestas tropicais úmidas até cerrados e caatingas. Sua distribuição geográfica abrange principalmente países como Brasil, Argentina, Paraguai e Bolívia."   
+        },
+        {
+            "title": "Floração e Frutificação",
+            "content": "A floração do Angico geralmente ocorre durante os meses de primavera e verão, dependendo da espécie e das condições climáticas locais. Suas flores são pequenas e geralmente de cor branca ou amarelada, agrupadas em inflorescências. A frutificação ocorre após a polinização, com a formação de vagens que contêm sementes."
+        },
+        {
+            "title": "Importância Ecológica",
+            "content": "O Angico desempenha um papel importante no ecossistema como fornecedor de alimento e abrigo para diversas espécies de animais, contribuindo para a biodiversidade local. Suas raízes também ajudam a estabilizar o solo, prevenindo a erosão e mantendo a fertilidade do terreno."
+        },
+        {
+            "title": "Utilização Humana",
+            "content": "O angico tem várias utilidades para os seres humanos. Sua madeira é valorizada pela sua resistência e durabilidade, sendo utilizada na fabricação de móveis, construções e na produção de carvão vegetal. Além disso, suas propriedades medicinais são aproveitadas na medicina popular, especialmente suas cascas e folhas, que são utilizadas no tratamento de diversas condições de saúde."   
+        },
+        {
+            "title": "Adaptações ao Clima",
+            "content": "O angico é uma planta adaptada a uma ampla gama de condições climáticas, desde áreas úmidas até regiões mais secas. Suas raízes profundas ajudam a acessar a água em camadas mais profundas do solo, tornando-a resistente à seca. Suas folhas também podem apresentar adaptações, como a presença de cutículas espessas, para minimizar a perda de água por transpiração."
+        },
+        {
+            "title": "Resumindo...",
+            "content": "O angico é uma árvore nativa da América Latina, conhecida por sua altura imponente e ampla distribuição geográfica. Suas flores pequenas e agrupadas em inflorescências dão lugar a vagens após a polinização. Além de sua importância ecológica, fornecendo abrigo e alimento para a fauna, o angico é valioso para os seres humanos, tanto pela sua madeira resistente quanto por suas propriedades medicinais. Adaptado a uma variedade de climas, o angico é uma espécie versátil e resiliente."
+        }
+    ]
+    
+}
