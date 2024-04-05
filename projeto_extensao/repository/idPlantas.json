@@ -2,107 +2,159 @@
     "idPlants": [
         {
             "id": 0,
-            "address": "angico"
+            "name": "Angico",
+            "address": "angico",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 1,
-            "address": "aroeira"
+            "name": "Aroeira",
+            "address": "aroeira",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 2,
-            "address": "cajaraneira"
+            "name": "Cajaraneira",
+            "address": "cajaraneira",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 3,
-            "address": "cardeiro"
+            "name": "Cardeiro",
+            "address": "cardeiro",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 4,
-            "address": "carnauba"
+            "name": "Carnaúba",
+            "address": "carnauba",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 5,
-            "address": "catingueira"
+            "name": "Catingueira",
+            "address": "catingueira",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 6,
-            "address": "craibeira"
+            "name": "Craibeira",
+            "address": "craibeira",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 7,
-            "address": "cumaru"
+            "name": "Cumaru",
+            "address": "cumaru",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 8,
-            "address": "espinheiro"
+            "name": "Espinheiro",
+            "address": "espinheiro",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 9,
-            "address": "faveleira"
+            "name": "Faveleira",
+            "address": "faveleira",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 10,
-            "address": "gogoia"
+            "name": "Gogoia",
+            "address": "gogoia",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 11,
-            "address": "juazeiro"
+            "name": "Juazeiro",
+            "address": "juazeiro",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 12,
-            "address": "juca"
+            "name": "Jucá",
+            "address": "juca",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 13,
-            "address": "jurema"
+            "name": "Jurema",
+            "address": "jurema",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 14,
-            "address": "mororo"
+            "name": "Mororó",
+            "address": "mororo",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 15,
-            "address": "mufumbo"
+            "name": "Mufumbo",
+            "address": "mufumbo",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 16,
-            "address": "mulungu"
+            "name": "Mulungu",
+            "address": "mulungu",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 17,
-            "address": "oiticica"
+            "name": "Oiticica",
+            "address": "oiticica",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 18,
-            "address": "pau_darco_rosa"
+            "name": "Pau Darco Rosa",
+            "address": "pau_darco_rosa",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 19,
-            "address": "peao_bravo"
+            "name": "Peão Bravo",
+            "address": "peao_bravo",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 20,
-            "address": "pereiro"
+            "name": "Pereiro",
+            "address": "pereiro",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 21,
-            "address": "timbauba"
+            "name": "Timbaúba",
+            "address": "timbauba",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 22,
-            "address": "trapia"
+            "name": "Trapiá",
+            "address": "trapia",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 23,
-            "address": "urtiga"
+            "name": "Urtiga",
+            "address": "urtiga",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 24,
-            "address": "velame"
+            "name": "Velame",
+            "address": "velame",
+            "img": "./xique_xique/flor.jpeg"
         },
         {
             "id": 25,
-            "address": "xique_xique"
+            "name": "Xique Xique",
+            "address": "xique_xique",
+            "img": "./xique_xique/flor.jpeg"
         }
     ]
 }

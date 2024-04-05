@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.main{
+    width: 100%;
+}
+
+.main > h1{
+    text-align: center;
+    color: #00730C;
+}
+
+.containerPlants{
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 70%;
+}
+
+.card{
+    margin-bottom: 2rem;
+}
+
+.body{
+    margin: auto;
+    padding: 0px 0px 10px 0px;
+}
+
+.img{
+    height: 12rem;
+}
+
+.name{
+    margin-top: 5px;
+    padding: 0;
+    font-size: 1rem;
+    text-align: center;
+    color: #00730C;
+}

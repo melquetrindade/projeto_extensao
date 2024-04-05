@@ -1,10 +1,13 @@
 import React, {useState, useEffect} from 'react';
+import { useRouter } from 'next/router';
 import idPlantas from '../repository/idPlantas'
-import styles from "../styles/testeFor.module.css"
+import styles from "../styles/[id].module.css"
 
 export default function Search(){
-
-    const id = 1
+    const router = useRouter()
+    const {id} = router.query
+ 
+    //console.log(id)
     const [address, setAddress] = useState('load')
     const [braid, setBraid] = useState(false)
     const [dados, setDados] = useState(null)
@@ -12,7 +15,7 @@ export default function Search(){
     const searchPlant = () => {
         try{
             idPlantas.idPlants.forEach(element => {
-                console.log('entrou no for')
+                //console.log('entrou no for')
                 if(element.id == id){
                     setAddress(element.address)
                     throw new Error('StopIteration');
@@ -27,10 +30,18 @@ export default function Search(){
         
     }
 
-    if(!braid){
+    if(!braid && id != undefined){
         setBraid(true)
         searchPlant()
     }
+
+    useEffect(() => {
+        const loadPag = () => {
+            console.log('id mudou')
+        }
+
+        loadPag()
+    }, [id])
 
     useEffect(() => {
         const carregarDados = async () => {
@@ -44,13 +55,13 @@ export default function Search(){
         carregarDados();
     }, [address]);
 
-    
+    /*
     if(dados != null){
         console.log(dados.name)
-    }
+    }*/
 
     return (
-        <main className={styles.main}>
+        <>
             {
                 address === 'load'
                 ?
@@ -62,7 +73,7 @@ export default function Search(){
                 :
                 <Template data={dados} />
             }
-        </main>
+        </>
     )
 }
 
@@ -84,7 +95,7 @@ function Error(){
 
 function Template({data}){
     return(
-        <>
+        <main className={styles.main}>
             <h1>{data?.name}</h1>
 
             <section className={styles.section}>
@@ -163,6 +174,6 @@ function Template({data}){
                     {data?.sessions[6].content}
                 </p>
             </section>
-        </>
+        </main>
     )
 }
